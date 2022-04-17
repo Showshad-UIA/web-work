@@ -1,0 +1,60 @@
+body {
+	background-image: url(https://www.google.com/imgres?imgurl=https%3A%2F%2Flookaside.fbsbx.com%2Flookaside%2Fcrawler%2Fmedia%2F%3Fmedia_id%3D1550455288299573&imgrefurl=https%3A%2F%2Fwww.facebook.com%2Fiiumcps%2F&tbnid=OzQxU1sphAHUTM&vet=12ahUKEwiatcaXwZr3AhVXjtgFHXngBuYQMygDegUIARDbAQ..i&docid=BSQQUAwwFEEMBM&w=758&h=695&q=iium&ved=2ahUKEwiatcaXwZr3AhVXjtgFHXngBuYQMygDegUIARDbAQ);
+}
+.container {
+	margin-top: 10px;
+}
+.footer {
+	margin-right: 20px;
+}
+.form {
+	height: 1000px;
+}
+.img {
+	height: 300px;
+	margin-right: 10px;
+	margin-top: 10px;
+}
+.picture {
+	margin-left: 100px;
+	height: 300px;
+}
+.password {
+	color: white;
+}
+.password1 {
+	color: white;
+	text-align: center;
+	margin-top: 80px;
+}
+.projects {
+	border: 1px solid teal;
+	border-radius: 10px;
+	margin-bottom: 10px;
+}
+.title {
+	color: white;
+	text-align: center;
+}
+.button {
+	width: 400px;
+	height: 50px;
+	border-radius: 10px;
+	margin-left: 30px;
+	border: 1px solid tomato;
+	text-align: center;
+}
+.footer {
+	position: fixed;
+	height: 50px;
+	left: 0;
+	color: aliceblue;
+	bottom: 0;
+	width: 100%;
+	background-color: black;
+	color: white;
+	text-align: center;
+}
+.project {
+	width: 20px;
+}
